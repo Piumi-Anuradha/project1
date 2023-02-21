@@ -1,7 +1,90 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
 
+
+
+.nav-link {
+       color: #FFBF00;
+       font-size: 60px;
+       padding-left: 25px;
+}
+
+
 h1 {
 
        font-family: 'Tangerine', cursive;
+       letter-spacing: 4px;
+       color: #FFBF00;
+       font-size: 100px;
+       font-weight: bold;
+       float: left;
      
 }
+
+.display-4 {
+       font-size: 80px;
+       color: #FFBF00;
+       font-weight: bold;
+
+}
+
+.lead {
+       font-size: 50px;
+       color: #FFBF00;
+       font-weight: bold;
+}
+
+.card-body {
+       flex: 1 1 auto;
+       padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+       color: var(--bs-card-color);
+       font-size: 70px;
+
+
+     }
+
+.btn-secondary {
+       font-size: 10px;
+}
+
+body{
+       font-family: 'Tangerine', cursive;
+       font-size: 50px;
+       color: #FFBF00;
+       font-weight: bold;
+
+}
+
+.jumbotron-fluid{
+       background-color: #2a8000;
+}
+
+
+.jumbotron-fluid{
+
+       background-color:green;
+
+}
+
+.btn-secondary {
+       --bs-btn-active-bg: #d4ff00;
+       font-size: 20px;
+}
+.social-links li a i {
+       width: 32px;
+       height: 32px;
+       padding: 12px 0;
+       border-radius: 50%;
+       font-size: 13px;
+       line-height: 7px;
+       text-align: center;
+       color: #fafafa;
+       background: #8f8f8f;
+       transition: all 0.35s ease-in-out;
+       -moz-transition: all 0.35s ease-in-out;
+       -webkit-transition: all 0.35s ease-in-out;
+       -o-transition: all 0.35s ease-in-out;
+   }
+   
+   .social-links li a i:hover {
+       background: #e84610;
+   }
