@@ -1,24 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
 
-
-
-.nav-link {
+/* body*/
+body{
+       font-family: 'Tangerine', cursive;
+       font-size: 40px;
        color: #FFBF00;
-       font-size: 60px;
-       padding-left: 25px;
+       font-weight: bold;
+
 }
+/* body*/
 
-
+/* This is logo and nav bar*/
 h1 {
 
        font-family: 'Tangerine', cursive;
        letter-spacing: 4px;
-       color: #FFBF00;
-       font-size: 100px;
+       color: #f0cd09;
+       font-size: 60px;
        font-weight: bold;
        float: left;
+       
      
 }
+
+.nav-link {
+       color: #FFBF00;
+       font-size: 40px;
+       padding-left: 25px;
+}
+
+.navbar .navbar-expand{
+       background-color: #2a8000;
+
+}
+
+
+.navbar {
+       background-color: #2a8000;
+}
+
+.hero{
+       background-color: #2a8000;
+}
+
+.jumbotron1 {
+       background-image: url("abot-right.png");
+}
+
+
+
+
+
 
 .display-4 {
        font-size: 80px;
@@ -33,6 +65,9 @@ h1 {
        font-weight: bold;
 }
 
+.background {
+       background-image: no-repeat;
+}
 
 
 .card-body {
@@ -49,24 +84,12 @@ h1 {
        --bs-btn-color: #000;
 }
 
-body{
-       font-family: 'Tangerine', cursive;
-       font-size: 50px;
-       color: #FFBF00;
-       font-weight: bold;
-
-}
-
-.jumbotron-fluid{
-       background-color: #2a8000;
-}
 
 
 .jumbotron-fluid{
-
-       background-color:green;
-
+       background-color: #6b8000;
 }
+
 
 .btn-secondary {
        --bs-btn-active-bg: #d4ff00;
@@ -81,7 +104,7 @@ body{
        font-size: 13px;
        line-height: 7px;
        text-align: center;
-       color: #fafafa;
+       color: #FFBF00;
        background: #8f8f8f;
        transition: all 0.35s ease-in-out;
        -moz-transition: all 0.35s ease-in-out;
