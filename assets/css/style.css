@@ -4,13 +4,15 @@
 body{
        font-family: 'Tangerine', cursive;
        font-size: 40px;
-       color: #FFBF00;
+       color: #2a8000;
        font-weight: bold;
 
 }
 /* body*/
 
 /* This is logo and nav bar*/
+
+
 h1 {
 
        font-family: 'Tangerine', cursive;
@@ -21,6 +23,15 @@ h1 {
        float: left;
        
      
+}
+
+.navbar-nav {
+
+       color:#FFBF00;
+}
+
+.nav-item {
+       color:#FFBF00;
 }
 
 .nav-link {
@@ -39,14 +50,18 @@ h1 {
        background-color: #2a8000;
 }
 
-.hero{
-       background-color: #2a8000;
-}
+
 
 .jumbotron1 {
        background-image: url("abot-right.png");
+       
 }
 
+
+
+.text-muted {
+       padding: 10px;
+}
 
 
 
@@ -67,6 +82,8 @@ h1 {
 
 .background {
        background-image: no-repeat;
+       padding: 10px;
+  
 }
 
 
