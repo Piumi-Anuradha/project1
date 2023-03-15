@@ -1,17 +1,84 @@
 body{
+
 font-family: 'Raleway', sans-serif;
+background-color: white;
+
+
 }
 
-.description-container{
+/* navbar */
+
+
+.container-fluid .navbar-container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    background-color: black;
+}
+
+.navbar{
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: black;
+  
+}
+
+.navbar .navbar-togglar{
+    border: 0;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.navbar-text{
+    font-weight: bold;
+}
+
+.nav-link{
+    font-weight: bold;
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: transparent;
+    margin-bottom: 50px;
+    font-weight: bold;
+
+}
+
+.heading-text{
+    font-weight: bold;
+    margin-bottom: 20px;
 
 }
 
 .spice-container{
-    
 
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+.text-uppercase {
+    font-weight: bold;
 }
 
 .services-container{
-    
+    height: 100vh;
+    font-size: large;
+    font-weight: bold;
     
 }
+
+.service-letter{
+    font-weight: bold;
+
+}
+

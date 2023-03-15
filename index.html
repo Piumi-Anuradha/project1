@@ -9,12 +9,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
 
-  <nav class="navbar navbar-light bg-light navbar-expand-sm">
+<div class="container-fluid navbar-container">
+  <nav class="navbar navbar-dark navbar-expand-sm">
     <a href="/" class="navbar-brand">Piyumi's Kitchen</a>
     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span></button>
@@ -30,10 +32,13 @@
 
     <div class="d-non d-md-block">
     <p class="navbar-text my-auto mr-2">Authentic Sri Sri Lankan Cuisin!! </p>
-    <a href="" data-toggle="modal" data-target="#signUpModal"><i>Sign Up!!!</i></a>
+    <a href="" class="btn btn-danger" data-toggle="modal" data-target="#signUpModal"><i>Sign Up!!!</i></a>
     </div>
+  
 
   </nav>
+</div>
+
 
 <!--description-->
 
@@ -42,7 +47,7 @@
 <div class="row">
   <div class="col-12 my-5">
     <section class="description jumbotron text-center">
-      <h1>Welcome to Piyumi's Kitchen</h1>
+      <h1 class="heading-text">Welcome to Piyumi's Kitchen</h1>
       <p class="lead">Sri Lankan cuisine is known for its unique spice and herb 
         blend of Sri Lankan cinnamon, black pepper, Goroka (garcinia cambogia), Pandon leaves, lemon grass, curry leaves,
          fenugreek, coriander, fennel seeds, cumin, cardamom, cloves, etc. Maldive fish will be added in to certain dishes 
@@ -54,17 +59,18 @@
     </section>
   </div>
 </div>
+</div>
 
     <!--/description-->
 
-<div class="container spice-container">
+<div class="container-fluid spice-container">
   <div class="d-non d-sm-block">
     <img src="../assets/images/abot-right.png"  class="rounded-circle mr-3"  height=100% alt="spices">    
   </div>
 </div>
 
 </div>
-    <!--services-->
+   <!--services-->
 
 <div class="container services-container"> 
 
@@ -80,7 +86,7 @@
   <div class="row">
     <div class="col-12 col-md-6">
       <div class="service">
-        <h3><a href="menu.html"> Our delicious meals...</a></h3>
+        <h3 class="service-letter"><a href="menu.html"> Our delicious meals...</a></h3>
         <p>
           Our authentic Sri Lankan menue is a combination of Sri Lankan main breakfast,
           lunch, dinner, meal accompaniments and Sri Lankan beverages.
@@ -90,7 +96,7 @@
      
     <div class="col-12 col-md-6">
       <div class="service">     
-        <h3><a href="catering.html">Our outdoor catering...</a></h3>
+        <h3 class="service-letter"><a href="catering.html">Our outdoor catering...</a></h3>
         <p>
           Piyumi's Kitchen is happy to cater for your any event. We have menus that suits your requirement.
           And also our experienced team provides a better service according to your event requirement.
@@ -101,7 +107,7 @@
 
     <div class="col-12 d-md-non d-lg-block col-lg-4"> 
       <div class="service">
-        <h3><a href="contact.html">Where are we...</a></h3>
+        <h3 class="service-letter"><a href="contact.html">Where are we...</a></h3>
         <p>
           You can contact us during our working hours...
         </p>
@@ -114,6 +120,59 @@
     </section>
 
 </div>
+
+<!---footer-->
+<footer>
+  <div class="container-fluid navbar-container">
+    <nav class="navbar navbar-dark navbar-expand-sm">
+      <div class="justify-content-center">
+        <h5 class="uppercase general-sub"></h5>
+          <ul class="list-inline social-links">
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-facebook" aria-hidden="true"></i>
+                  <span class="sr-only">Facebook</span>
+                  </a>
+              </li>
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                  <span class="sr-only">Twitter</span>
+                  </a>
+              </li>
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  <span class="sr-only">LinkedIn</span>
+                  </a>
+              </li>
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-pinterest" aria-hidden="true"></i>
+                  <span class="sr-only">Pinterest</span>
+                  </a>
+              </li>
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                  <span class="sr-only">Instagram</span>
+                  </a>
+              </li>
+              <li class="list-inline-item">
+                  <a target="_blank" href="#">
+                  <i class="fa fa-youtube" aria-hidden="true"></i>
+                  <span class="sr-only">YouTube</span>
+                  </a>
+              </li>
+            </ul>
+    </div>
+</div>
+</div>
+</footer>
+
+
+
+<!---/footer-->
 
 
 <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
@@ -146,6 +205,8 @@
       </div>
   </div>
 </div>
+
+
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
