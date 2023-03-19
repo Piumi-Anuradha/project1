@@ -56,12 +56,13 @@ background-color: white;
 
 }
 
-.spice-container{
+.container-fluid .spice-container{
 
 
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 20px;
    
 
 }
