@@ -31,5 +31,34 @@ Styling
 All the wireframes were hand drawn as drawing on a paper was found easier and quicker for the developer. 
 Three of each wire frames were desingned for mobile, tablet and for the desktop. 
 
+2. Features
+- Existing features
+- Features left to implementation
+
+3. Technologies used
+
+4. Testing
+- w3c css validation
+- w3c mark up validation
+
+Client stories testing
+
+Most common path through the website
+- Home > Menu > Contact
+- Each of these pages point clearly to the next one with a call to action button.
+In some places the customer may have a different question in their mind. So a second button is also provided. 
+Some pages affer two possible paths in their call to action buttons.
+- From Home > sign up or learn more
+- From Where do you see us > contact page
+
+5. Deployment
+The project was developed using the Git pod, committed to git and pushed to Git Hub using built in function.
+
+To deploy this page to Git hub from its GitHub repository, the following steps were taken. 
+1. Log in the Git Hub
+2. From the list of repositories on the screen select "  ".
+3. From the menu items near the top of the page, select <b>settings</b>
+
+
 
 
