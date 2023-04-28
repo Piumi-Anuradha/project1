@@ -39,13 +39,16 @@ Three of each wire frames were desingned for mobile, tablet and for the desktop.
 
 4. Testing
 - w3c css validation
+-------screen shots------
 - w3c mark up validation
+-------screen shots------
 
 Client stories testing
 
 Most common path through the website
 - Home > Menu > Contact
 - Each of these pages point clearly to the next one with a call to action button.
+-------screen shots------
 In some places the customer may have a different question in their mind. So a second button is also provided. 
 Some pages affer two possible paths in their call to action buttons.
 - From Home > sign up or learn more
