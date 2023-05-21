@@ -14,21 +14,21 @@
 </head>
 <body>
 
-  <div class="container-fluid navbar-container">
+  <div class="container-fluipd navbar-container">
     <nav class="navbar navbar-dark navbar-expand-sm">
       <a href="/" class="navbar-brand">Piyumi's Kitchen</a>
       <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar nav-mr-auto">
-        <li class="nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
+        <li class="ative nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
         <li class="nav-item mr-2"><a class="nav-link" href="menu.html">Menu</a></li>
-        <li class="ative nav-item mr-2"><a class="nav-link" href="contact.html">Contact</a></li>
+        <li class="nav-item mr-2"><a class="nav-link" href="contact.html">Contact</a></li>
       </ul>
     </div>
   
       <div class="d-non d-md-block">
-      <p class="navbar-text my-auto mr-2">Authentic Sri Sri Lankan Cuisin!! </p>
+      <p class="navbar-text my-auto mr-2"><b>Authentic Sri Sri Lankan Cuisin!! </b></p>
       <a href="" class="btn btn-danger" data-toggle="modal" data-target="#signUpModal"><i>Sign Up!!!</i></a>
       </div>
     
@@ -43,7 +43,7 @@
 
     <div class="container-fluid spice-container">
       <div class="d-non d-sm-block">
-        <img src="../assets/images/images.jpg"  class="rounded-circle mr-3"  height=100% alt="spices">    
+        <img src="../assets/images/images.jpg"  class="img-fluid mw-50 mx-auto "  alt="spices">    
       </div>
     </div>
   </section>
@@ -62,22 +62,7 @@
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#signUpModal">More details</button>
           <div class="container description-container">
 
-            <div class="row">
-              <div class="col-12 my-5">
-                <section class="description jumbotron text-center">
-                  <h2 class="heading-text">Contact Us </h2>
-                  <form action="/action_page.php">
-                    <label for="fname">Name:</label><br>
-                    <input type="text" id="fname" name="fname" value=""><br>
-                    <label for="fname">Phone number:</label><br>
-                    <input type="text" id="fname" name="fname" value=""><br>
-                    <label for="lname">Email:</label><br>
-                    <input type="email" id="lname" name="lname" value=""><br><br>
-                    <input type="submit" value="Submit">
-                              
-                </section>
-              </div>
-            </div>
+          
         </section>
         
           </div>
@@ -91,12 +76,11 @@
         </div>
       </div>
       </div>
-   
-    
+     
 
                 
       <footer>
-        <div class="container-fluid navbar-container">
+         <div class="container-fluid navbar-container no-gutters p-0">
           <nav class="navbar navbar-dark navbar-expand-sm justify-content-center">
             <div class="justify-content-center">
               <h5 class="uppercase general-sub"></h5>
@@ -141,6 +125,7 @@
           </div>
       </div>
       </div>
+    
       </footer>
       <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
         <div class="modal-dialog" role="document">
@@ -154,18 +139,15 @@
                   <div class="modal-body">
                       <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
                           <div class="form-group">
+                          <label for="name">Name</label>
+                          <input type="text" class="form-control" id="name" placeholder="name">
+                          </div>
+                          <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                           </div>
-                          <div class="form-group">
-                            <label for="password">Password</label>
-                            <input type="password" class="form-control" id="password" placeholder="Password">
-                          </div>
-                          <div class="form-group">
-                            <label for="repeatPassword">Repeat Password</label>
-                            <input type="password" class="form-control" id="repeatPassword" placeholder="Repeat Password">
-                          </div>
+                          
                         <button type="submit" class="btn btn-success">Submit</button>
                       </form>
                 </div>
