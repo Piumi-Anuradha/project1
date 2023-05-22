@@ -108,37 +108,58 @@ It has been ensured that the website is as accessible friendly as possible. I wa
    - Google Dev Tools- To troubleshoot and test features, solve issues with responsiveness and 
      styling. 
    - [Tiny PNG](https://tinypng.com/) - To compress the images.
-   - 
+   - [Am I Responsive?](https://ui.dev/amiresponsive)- This wbsite is used to show the website  
+     images of the range of devices.
 
- 
+## Deployment
+
+GitHub pages were used to deploy the live website. The instructions are given below.
+1. log in (or sign up) to GitHub
+2. Find the reporsitory for this project. My project is "Piumi-Anuradha/project1"
+3. Click on the settings link.
+4. Click on the "Pages" link in the left and side navigator bar.
+5. In the source section, choose main from the drop down, select brance menu. Select Root from the 
+   drop down select folder menu. 
+6. Click Save. Your live GitHub pages site is now deployed at the URL shown. 
+
+## Testing
+
+Crome developer tools has have been used while building to pinpoint and troubleshoot any issue.
+
+The following issues were raised during the meeting with the mentor.
+   - The navbar for the smaller devices was not alighning properly. This issue was documented in the 
+     [solved bugs] section. 
+   - The image on the home page was not alligned to the middle. This issue has been documented under 
+     the solved bugs section. 
+   - Social links on the footer were not opening. Bug was solved and documented under the solved 
+     bugs.
+
+### W3C Validator
+
+The W3C validator was used to validate the HTML on all pages of the website. And also this validator has been used to validate the CSS in the style.css file.
+   - Index Page in HTML
+   - Menu Page in HTML 
+   - Contact Page in HTML
+   - style.css in CSS
+
+### Solved bugs
+ 1. 
+ 2. 
+ 3. 
+
+### Lighthouse
+Lighthouse has been used within the Crome Developer tools to allow me to test the performance, accessibility, best practices and SEO of the website.
+
+Index Page
 
 
 
 
 
 
-2. Features
-- Existing features
-- Features left to implementation
 
-3. Technologies used
 
-4. Testing
-- w3c css validation
--------screen shots------
-- w3c mark up validation
--------screen shots------
 
-Client stories testing
-
-Most common path through the website
-- Home > Menu > Contact
-- Each of these pages point clearly to the next one with a call to action button.
--------screen shots------
-In some places the customer may have a different question in their mind. So a second button is also provided. 
-Some pages affer two possible paths in their call to action buttons.
-- From Home > sign up or learn more
-- From Where do you see us > contact page
 
 5. Deployment
 The project was developed using the Git pod, committed to git and pushed to Git Hub using built in function.
