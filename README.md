@@ -20,6 +20,23 @@ Piyumi's Kitchen website is designed to be responsive that allows visitors to vi
    - Languages used
    - Frameworks, Libraries and programmes used
 
+- ## [Deployement]
+
+- ## [Testing]
+   - W3C Validator
+   - Solved Bugs
+   - Lighthouse
+         - Index page
+         - Menu Page
+         - Contact Page
+   
+- ## [Credits]
+   - Code used
+   - Content
+   - Media
+   - Acknoledgement
+
+
 
 
 
