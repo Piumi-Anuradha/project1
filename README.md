@@ -163,23 +163,7 @@ Contact Page
 ![screenshot of lighthouse for home page](/css/style.css/contact.png)
 
 
-
-
-
-
-
-
-
-6. Credit
-- content
-- media
-- code
-
-Template card for multi-card carousal using bootstrap classes taken from MDBootstrap and heavily modified to suit the sites needs
-Code for ----- was taken from w3school.
-Code to make sticky footer was taken from this css-tricks.com post
-
-- Acknowledgement
+## Acknowledgement
 
 I would like to take this as an opportunity to acknownledge the following people who helped me along the way in completing my first milestone project:
 
