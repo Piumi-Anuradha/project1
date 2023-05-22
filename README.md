@@ -63,18 +63,57 @@ From the developer's point of view, very streightfoward and less complicated web
 - All the wireframes were hand drawn as drawing on a paper was found easier and quicker for the developer. 
 - Three of each wire frames were desingned for smaller devices and desktop version. 
 
+## Features
+
+This website is comprise of three pages. They are Home page, Menu page and Contact page.
+- All pages on the website have,
+      - A responsive navigation bar at the top which allow the users to navigate through the site.   
+        To the left of the navigation bar has the " Piyumi's Kitchen" fonts. To the middle of the navigation bar are the links to the page of the website (Home, Menu, Contact) and to the right to the navigation bar is the sign up page.
+
+      - The footer contains social media links to facebook, twitter, linkedIn, Pinterest, Instagram 
+        and YouTube.
+
+- Home Page
+      - JumboTrone has been used for "Welcome to Piyumi's Kitchen" section.
+      - The button for "More details" and the button for "Sign Up" at the right corner of the   
+        navigation bar have used the same code which opens to the same inquiry box.
+      - There are three links in the body of the page that navigate the Home page, Menu page and 
+        Contact page.
+
+- Menu Page
+      - JomboTrone has been used for the menu page.
+
+- Contact Page
+      - Provides the means of contacting the seller.
+      - "More details" button has used the same code as the "More details" button in the Menu page 
+        and the navigation bar.
+
+## Accessibility
+
+It has been ensured that the website is as accessible friendly as possible. I was able to achieve this accessibility by;
+         - Using semantic HTML
+         - Using descriptive alt atributes on images on the website
+         - Ensuring that there is a sufficient color contrast through out the website.
+
+## Technologies Used
+   - Languages used
+      - HTML and CSS was used to create the website. 
+   - Frameworks, Libraries and Programmes used
+      - Git - version control
+      - GitHub - For version control
+      - BootStrap version 4.2- The framework for the website. Code for the navigation bar, cards, 
+        Jumbotrone and forms were used and modified. 
+      - CSS styling was also used in style.css additionally. 
+   - Font Awsome- To import the fonts that used on the website.
+   - Google Dev Tools- To troubleshoot and test features, solve issues with responsiveness and 
+     styling. 
+   - [Tiny PNG](https://tinypng.com/) - To compress the images.
+   - 
+
+ 
 
 
 
-
-
-
-
-
-styling
-
-* Card and container boxes were given with rounded corners to the main images and the menu items. 
-* The whole website was desined with the repititon of same rounded corner patterns, cards and container boxes in order to have the feeling that all the elements belong together. 
 
 
 
