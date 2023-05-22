@@ -152,15 +152,15 @@ Lighthouse has been used within the Crome Developer tools to allow me to test th
 
 Index Page
 
-![screenshot of lighthouse for home page](/css/style.css/home.png)
+![screenshot of lighthouse for home page](style.css/images/home.png)
 
 Menu Page
 
-![screenshot of lighthouse for home page](/css/style.css/menu.png)
+![screenshot of lighthouse for home page](style.css/images/menu.png)
 
 Contact Page
 
-![screenshot of lighthouse for home page](/css/style.css/contact.png)
+![screenshot of lighthouse for home page](style.css/images/contact.png)
 
 
 ## Acknowledgement
