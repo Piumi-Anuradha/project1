@@ -154,6 +154,13 @@ Index Page
 
 ![screenshot of lighthouse for home page](/css/style.css/home.png)
 
+Menu Page
+
+![screenshot of lighthouse for home page](/css/style.css/menu.png)
+
+Contact Page
+
+![screenshot of lighthouse for home page](/css/style.css/contact.png)
 
 
 
@@ -161,20 +168,7 @@ Index Page
 
 
 
-5. Deployment
-The project was developed using the Git pod, committed to git and pushed to Git Hub using built in function.
 
-To deploy this page to Git hub from its GitHub repository, the following steps were taken. 
-1. Log in the Git Hub
-2. From the list of repositories on the screen select "  ".
-3. From the menu items near the top of the page, select <b>settings</b>
-4. Scroll down to the <b>GitHub pages</b> section. 
-5. Under <b>Source</b>, click the drop down menu labelled "none" and select Master Branch
-6. On selecting master branch, the page is automatically refreshed, the website is now deployed.
-7. Scroll back down to the <b>Git Hub pages</b> section to retrieve the link to the deployed        
-   website. 
-
-At the momnet of submitting this Milestone project the Development branch and Master Branch are identical.
 
 6. Credit
 - content
@@ -187,6 +181,10 @@ Code to make sticky footer was taken from this css-tricks.com post
 
 - Acknowledgement
 
+I would like to take this as an opportunity to acknownledge the following people who helped me along the way in completing my first milestone project:
+
+1. Ms Rachel Furlong - the tutor,for her help in completing my project.
+2. Mr Ben Kavanagh - the mentor, for his help in the milestone project
 
 
 
