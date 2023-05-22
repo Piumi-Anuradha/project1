@@ -1,3 +1,32 @@
+Piyumi's Kitchen website is designed to be responsive that allows visitors to view using a range of devices. This website allows the visitors to find out about authentic Sri Lankan food in a menue.
+
+
+-----the screenshot of all the devices----
+
+# Content
+- ## [User Experience (UX)]
+   - Initial Discussion
+   - User Stories
+
+- ## [Design]
+   - Color scheme
+   - Typography
+   - Imagery
+   - Wireframes
+   - Features
+   - Accessibility
+
+- ## [Technologies Used]
+   - Languages used
+   - Frameworks, Libraries and programmes used
+
+
+
+
+
+
+
+
 # Piyumi's Kitchen
 ## Table of content
 1. UX
