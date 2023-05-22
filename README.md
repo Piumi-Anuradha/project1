@@ -152,7 +152,7 @@ Lighthouse has been used within the Crome Developer tools to allow me to test th
 
 Index Page
 
-
+![screenshot of lighthouse for home page](/css/style.css/home.png)
 
 
 
