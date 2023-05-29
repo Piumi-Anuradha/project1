@@ -1,7 +1,7 @@
 Piyumi's Kitchen website is designed to be responsive that allows visitors to view using a range of devices. This website allows the visitors to find out about authentic Sri Lankan food in a menue.
 
 
------the screenshot of all the devices----
+![The web page on all the devices](assets/images/amiresponsive.png)
 
 # Content
 - ## User Experience (UX)
@@ -62,6 +62,9 @@ From the developer's point of view, very streightfoward and less complicated web
 ### Wire frames
 - All the wireframes were hand drawn as drawing on a paper was found easier and quicker for the developer. 
 - Three of each wire frames were desingned for smaller devices and desktop version. 
+![screenshot of wireframes](assets/images/mobile.jpg)
+![screenshot of wireframes](assets/images/desktop.jpg)
+
 
 ## Features
 
@@ -128,24 +131,33 @@ Crome developer tools has have been used while building to pinpoint and troubles
 
 The following issues were raised during the meeting with the mentor.
    - The navbar for the smaller devices was not alighning properly. This issue was documented in the 
-     [solved bugs] section. 
+     solved bugs section. 
    - The image on the home page was not alligned to the middle. This issue has been documented under 
      the solved bugs section. 
    - Social links on the footer were not opening. Bug was solved and documented under the solved 
      bugs.
+   
 
 ### W3C Validator
 
 The W3C validator was used to validate the HTML on all pages of the website. And also this validator has been used to validate the CSS in the style.css file.
+
+- Some errors were found in index, menu and contact.html pages when validating. 
+  The issues were documented under solved bugs.
    - Index Page in HTML
+   ![screenshot of index.html](assets/images/indexvalid.png)
    - Menu Page in HTML 
+   ![screenshot of menu.html](assets/images/menuvalid.png)
+
    - Contact Page in HTML
+   ![screenshot of contact.html](assets/images/contactvalid.png)
    - style.css in CSS
+   ![screenshot of style,css](assets/images/cssvalidator.png)
 
 ### Solved bugs
- 1. 
- 2. 
- 3. 
+ 1. Made adjustments to the Jumbotrone code to allign the navbar properties. 
+ 2. Made adjustments to the Jumbotrone code to allign the image.
+ 3. Fixed the issues according to the W3C validator.
 
 ### Lighthouse
 Lighthouse has been used within the Crome Developer tools to allow me to test the performance, accessibility, best practices and SEO of the website.
