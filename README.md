@@ -30,6 +30,8 @@ Piyumi's Kitchen website is designed to be responsive that allows visitors to vi
          - Menu Page
          - Contact Page
    
+- ## Testing User Stories from User Experience (UX) Section
+
 - ## Credits
    - Code used
    - Content
@@ -43,10 +45,7 @@ Piyumi's Kitchen is a family run, small scale business situated in Hertfirdshire
 ## User Stories
 
 ### Customer Goals
-The potential customers of Piyumi's Kitchen, specially the customers who make takeaway orders and deliveries  expect a quick ordering process and a userfriendly navigation on the website.
-
-### Developer and business goals
-From the developer's point of view, very streightfoward and less complicated web development wil be aimed. At the same time the business aims to provide a userfriendly and a quick service to the target audience in order to gain profits.
+The potential customers of Piyumi's Kitchen expect a very streightfoward and less complicated   quick ordering process and a userfriendly navigation on the website.
 
 ## Design
 
@@ -127,7 +126,7 @@ GitHub pages were used to deploy the live website. The instructions are given be
 
 ## Testing
 
-Crome developer tools has have been used while building to pinpoint and troubleshoot any issue.
+Crome developer tools have been used while building to pinpoint and troubleshoot any issue.
 
 The following issues were raised during the meeting with the mentor.
    - The navbar for the smaller devices was not alighning properly. This issue was documented in the 
@@ -136,6 +135,21 @@ The following issues were raised during the meeting with the mentor.
      the solved bugs section. 
    - Social links on the footer were not opening. Bug was solved and documented under the solved 
      bugs.
+
+### Testing User Stories from User Experience (UX) Section
+
+The potential customers of Piyumi's Kitchen expect a very streightfoward and less complicated   quick ordering process and a userfriendly navigation on the website.
+
+   - Upon entering to the website, the clean and easily readable navigation bar welcomed the users. 
+   - The main points are made immediately with the links to the other pages.
+   - The ser has two options, click the links to the other pages or select the pages they want from  
+     the menu bar.
+
+![screenshot of navbar](assets/images/navbar.png)
+![screenshot of links](assets/images/links.png)
+
+
+
    
 
 ### W3C Validator
