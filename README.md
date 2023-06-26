@@ -62,8 +62,8 @@ From the developer's point of view, very streightfoward and less complicated web
 ### Wire frames
 - All the wireframes were hand drawn as drawing on a paper was found easier and quicker for the developer. 
 - Three of each wire frames were desingned for smaller devices and desktop version. 
-![screenshot of wireframes](assets/images/mobile.jpg)
-![screenshot of wireframes](assets/images/desktop.jpg)
+![screenshot of wireframes](assets/images/wrfrmdesktop.jpg)
+![screenshot of wireframes](assets/images/wrfrmmobile.jpg)
 
 
 ## Features
