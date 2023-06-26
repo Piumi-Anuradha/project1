@@ -145,7 +145,7 @@ The W3C validator was used to validate the HTML on all pages of the website. And
 - Some errors were found in index, menu and contact.html pages when validating. 
   The issues were documented under solved bugs.
    - Index Page in HTML
-   ![screenshot of index.html](assets/images/indexvalid.png)
+   ![screenshot of index.html](assets/images/indxvalid.png)
    - Menu Page in HTML 
    ![screenshot of menu.html](assets/images/menuvalid.png)
 
@@ -186,3 +186,6 @@ I would like to take this as an opportunity to acknownledge the following people
 
 
 
+
+
+[def]: assets/images/indxvalid.png
