@@ -142,8 +142,8 @@ The potential customers of Piyumi's Kitchen expect a very streightfoward and les
 
    - Upon entering to the website, the clean and easily readable navigation bar welcomed the users. 
    - The main points are made immediately with the links to the other pages.
-   - The ser has two options, click the links to the other pages or select the pages they want from  
-     the menu bar.
+   - The user has two options, click the links to the other pages or select the pages they want   
+     from the menu bar.
 
 ![screenshot of navbar](assets/images/navbar.png)
 ![screenshot of links](assets/images/links.png)
